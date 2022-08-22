@@ -1,8 +1,3 @@
-print("hola")
-y=2+5
-print(y)
-
-
 def bubblesort(lista):
     cantidad = len(lista) - 1
     for i in range(0,cantidad):
